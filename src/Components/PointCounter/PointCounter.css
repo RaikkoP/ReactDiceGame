@@ -1,0 +1,25 @@
+.score {
+    font-size: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    color: white;
+    font-size: 24px;
+    border: 0;
+    top: 50%;
+    position: relative;
+    bottom: 0;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    padding: 2em;
+    background-color: rgb(28,35,50);
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: rgb(44, 55, 80);
+    color: aliceblue;
+}

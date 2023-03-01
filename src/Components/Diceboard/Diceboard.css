@@ -1,0 +1,9 @@
+.inner-container {
+    display: flex;
+    width: 620px;
+    height: 850px;
+    margin: 2rem;
+    box-shadow: 0 0 15px 10px rgb(92, 96, 126);
+    border-radius: 5%;
+    background-color: rgba(219,206,230,0.5);
+}
